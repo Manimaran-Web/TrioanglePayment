@@ -1,0 +1,21 @@
+{
+    "name": "msquare/trioangle-payment",
+    "description": "This package common for all project",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "manimaran",
+            "email": "manimaran@trioangle.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            
+            "Msquare\\TrioanglePayment\\": "src/"
+            
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}

@@ -1,0 +1,1 @@
+#This payment package common for all projects
